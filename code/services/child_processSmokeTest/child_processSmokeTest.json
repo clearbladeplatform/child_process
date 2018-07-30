@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,child_process",
+    "logging_enabled": "false",
+    "name": "child_processSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "child_processSmokeTest.js"
+}
